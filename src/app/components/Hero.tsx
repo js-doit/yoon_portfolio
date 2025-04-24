@@ -17,7 +17,7 @@ export default function Hero() {
             />
           </div>
         </div>
-        <h1 className="text-5xl font-bold mb-4">안녕하세요, '윤 프로'입니다</h1>
+        <h1 className="text-5xl font-bold mb-4">안녕하세요, 윤 프로입니다</h1>
         <p className="text-xl mb-8">(주) 리얼넥스트 솔루션 대표이사</p>
         <button className="bg-white text-blue-600 px-6 py-3 rounded-full font-semibold hover:bg-opacity-90 transition-all">
           프로젝트 보기
